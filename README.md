@@ -1,6 +1,6 @@
 # RAW Image Processing Pipeline
 
-A MATLAB pipeline for processing RAW sensor images from Bayer CFA capture through demosaicing and colour correction. Built for the Tel Aviv University Image Sensors Lab (Semester I, Lab Work 3).
+A MATLAB pipeline for processing RAW sensor images from Bayer CFA capture through demosaicing and colour correction.
 
 ---
 
